@@ -1,0 +1,7 @@
+hi bhai
+  bhai ye hai counter = 1;
+  jab tak bhai(counter <= 10){
+    bol bhai counter;
+    counter += 1;
+  }
+bye bhai
